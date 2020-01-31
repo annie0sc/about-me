@@ -27,3 +27,4 @@ The repo is about my journey of learning GitHub and publishing webpages. Hopeful
 * Favorate Image:
 ![](https://i.pinimg.com/474x/1a/c3/93/1ac39385bdddecd60a583f3069326e77.jpg)
 
+[Image Credits](https://annie0sc.github.io/about-me/)
