@@ -1,0 +1,26 @@
+*
+{
+    padding : 2px;
+    margin : 2px;
+}
+
+article
+{
+    color : green;
+    border : 1pxl solid black;
+    background-color: rgb(230, 105, 126);
+}
+aside
+{
+    color : pink;
+    background-color: rgb(214, 166, 208);
+}
+
+.tg{
+    border-collapse: collapse; border-spacing;
+}
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
