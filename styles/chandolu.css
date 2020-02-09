@@ -31,3 +31,17 @@ aside
 table{
     background-color: thistle;
 }
+
+form{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    flex-basis: 80%;
+    justify-content: center;
+}
+form lebel, input[type ="text"],input[type = "number"], input [type="email"], textarea{
+flex-basis: 45%;
+margin: 5px;
+padding: 10px;
+resize: none;
+}
